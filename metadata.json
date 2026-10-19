@@ -1,0 +1,6 @@
+{
+  "name": "NaCCA Ghana Curriculum Navigator",
+  "description": "Standard-based curriculum browser for Ghana's NaCCA across classes, subjects, strands, content standards, and indicators with search, filters, and lesson planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
